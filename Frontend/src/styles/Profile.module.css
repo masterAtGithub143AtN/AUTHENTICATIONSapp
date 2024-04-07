@@ -1,0 +1,6 @@
+.glass{
+    @apply h-fit w-full;
+}
+.textbox{
+    @apply  w-full;
+}
